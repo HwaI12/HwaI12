@@ -1,4 +1,3 @@
-### Hi there 👋
 ## History
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HwaI12&theme=vue)
