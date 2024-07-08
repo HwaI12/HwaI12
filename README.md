@@ -1,3 +1,16 @@
+<!-- 1. GitHub usernameを変更 -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=HwaI12" />
+</div>
+
+
+<!-- 2. プロフィールや連絡先を変更 -->
+## Contact
+- X: [@Fua_ds](https://X.com/Fua_ds)
+- Portfolio: [Fami Ishikawa](https://hwai12.github.io/portfolio/)
+- wantedly: [@HwaI12](https://www.wantedly.com/id/HwaI12)
+<br>
+
 ## History
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HwaI12&theme=vue)
