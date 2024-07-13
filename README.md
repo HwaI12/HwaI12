@@ -1,7 +1,3 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=HwaI12" />
-</div>
-
 # Hi! I'm Hwami
 - 🔭 I’m currently a student at Musashino University.
 - 🌱 I’m currently learning about OOP and system design.
