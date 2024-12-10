@@ -1,7 +1,6 @@
 # ふぁみについて
-- 🔭 武蔵野大学 データサイエンス学部です
-- 🌱 Ruby on Railsを用いた開発について学んでいます
-- 🤔 コードレビューを手伝ってくれる方を探しています
+- 🔭 武蔵野大学データサイエンス学部です
+- 🌱 最近はRuby on Railsを用いた開発について学んでいます
 - 📫 X ( 旧Twitter ): [@Fua_ds](https://X.com/Fua_ds)
 - 🎈 ポートフォリオ: [Fami Ishikawa](https://hwai12.github.io/portfolio/)
 - 🏋🏻‍♀️ Wantedly: [@HwaI12](https://www.wantedly.com/id/HwaI12)
