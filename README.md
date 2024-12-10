@@ -1,14 +1,13 @@
-# Hi! I'm Hwami
-- 🔭 I’m currently a student at Musashino University.
-- 🌱 I’m currently learning about OOP and system design.
-- 💃🏻 I’m working solo on a research project titled "AIMEと自然言語処理を用いた新規性のある映画推薦モデル"
-- 🤔 I’m looking for someone to help me with code reviews.
-- 📫 How to reach me: [@Fua_ds](https://X.com/Fua_ds)
-- 🎈 My Portfolio: [Fami Ishikawa](https://hwai12.github.io/portfolio/)
-- 🏋🏻‍♀️ My wantedly: [@HwaI12](https://www.wantedly.com/id/HwaI12)
+# ふぁみについて
+- 🔭 武蔵野大学 データサイエンス学部です
+- 🌱 Ruby on Railsを用いた開発について学んでいます
+- 🤔 コードレビューを手伝ってくれる方を探しています
+- 📫 X ( 旧Twitter ): [@Fua_ds](https://X.com/Fua_ds)
+- 🎈 ポートフォリオ: [Fami Ishikawa](https://hwai12.github.io/portfolio/)
+- 🏋🏻‍♀️ Wantedly: [@HwaI12](https://www.wantedly.com/id/HwaI12)
 
 ## Skills
-![](https://skillicons.dev/icons?i=python,html,css,react,javascript,typescript,go,postgresql,mysql,docker,aws)
+![](https://skillicons.dev/icons?i=python,html,css,react,vue,next,javascript,typescript,go,ruby,rails,postgresql,mysql,docker,aws)
 
 ## Activities
 
